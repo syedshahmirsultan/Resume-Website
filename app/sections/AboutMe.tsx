@@ -2,8 +2,8 @@ import React from 'react'
 import Data from '../Components/Data';
 function AboutMe() {
   return (
-    <section id="about">
-    <div><h1 className="text-7xl text-gray-600 font-semibold text-center mt-14 mb-10">About Me</h1>
+    <section>
+    <div id="about"><h1 className="text-7xl text-gray-600 font-semibold text-center mt-14 mb-10">About Me</h1>
 
     {/*My Info*/}
 
@@ -14,7 +14,7 @@ function AboutMe() {
 
         Data.map((items,i)=> (
           
-            <div key="1" className="my-6">
+            <div key={i} className="my-6">
             <span className="lg:ml-2 mt-10 text-4xl sm:text-4xl text-gray-900 font-medium">{items.thing}</span>
             <span className="text-[25px] sm:text-3xl ml-[6px] lg:ml-[10px] text-gray-800 ">{items.value}</span>
             </div>
