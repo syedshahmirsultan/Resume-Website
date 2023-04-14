@@ -24,7 +24,7 @@ function AboutMe() {
 {/*For Client */}
 
     <div className="mt-14 w-2/2 pl-4 pr-4 xl:w-1/2 ml-2 mb-10">
-    <h1 className="text-5xl font-medium text-gray-900">Hello! I'm Syed Shahmir</h1>
+    <h1 className="text-5xl font-medium text-gray-900">Hello! I&apos;m Syed Shahmir</h1>
     <p className="text-3xl mt-8 text-gray-800">As a  Web developer, I am specialize in designing and building custom websites that exceed client expectations. With a strong foundation in NextJs,Tailwind CSS, and Typescript,
          I am adept at creating responsive and user-friendly web interfaces.By combining my technical skills with a keen eye for design, I am dedicated to delivering 
          exceptional web solutions that drive results.</p>
