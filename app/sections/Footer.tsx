@@ -4,11 +4,12 @@ import Image from "next/image";
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
-const Footer = () => {
-    function ClickOn(){
+function ClickOn(){
         const router=useRouter();
         router.push('/')
     }
+
+const Footer = () => {
   return (
     <section className="mt-[150px] bg-slate-900 h-auto w-2/2 pb-2"><div className="flex flex-col mt-4 justify-center items-center">
     <text className="text-2xl text-gray-200 mt-6">Connect on </text>
