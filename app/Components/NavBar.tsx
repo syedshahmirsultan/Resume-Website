@@ -60,7 +60,7 @@ import { useRouter } from 'next/router';
 import Link from 'next/link';
 
 function withNextRouter(Component:any) {
-  return function WrappedComponent(props) {
+  return function WrappedComponent(props:any) {
     const router = useRouter();
 
   
