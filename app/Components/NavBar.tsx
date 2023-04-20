@@ -57,7 +57,7 @@
 
 
 import { useRouter } from 'next/router';
-import Link from 'next/link
+import Link from 'next/link';
 
 function withNextRouter(Component) {
   return function WrappedComponent(props) {
