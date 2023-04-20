@@ -59,11 +59,11 @@
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 
-function withNextRouter(Component) {
+function withNextRouter(Component:any) {
   return function WrappedComponent(props) {
     const router = useRouter();
 
-    // Wait until the router is ready before rendering the component
+  
     if (!router.isReady) {
       return null;
     }
@@ -71,7 +71,7 @@ function withNextRouter(Component) {
     return <Component {...props} />;
   };
 }
-function HandleClick(router) {
+function HandleClick(router:any) {
   router.push('/');
 }
 
