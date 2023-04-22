@@ -2,10 +2,10 @@ import React from 'react'
 
 const Interests = () => {
   return (
-    <section id="interests" className="mt-[150px] scroll-smooth sm:mt-[300px] md:mt-[500px] lg:mt-[-100px] xl:mt-[-100px] 2xl:mt-[-300px] text-left "><div>
-      <div><h1 className="text-7xl align-left lg:align-center text-gray-600 font-semibold mt-[700px] text-center md:mt-[400px] lg:mt-[200px] mb-28">Interests</h1></div>
+    <section id="interests" className="mt-[200px] scroll-smooth sm:mt-[300px] md:mt-[500px] lg:mt-[-100px] xl:mt-[-100px] 2xl:mt-[-300px] text-left "><div>
+      <div><h1 className="text-7xl align-left lg:align-center text-gray-600 font-semibold mt-[800px] text-center md:mt-[600px] lg:mt-[200px] mb-28">Interests</h1></div>
       <div className="2xl:w-2/2 w-2/2 h-auto bg-gray-200 2xl:ml-[200px] 2xl:mr-[200px]">
-      <ol className="text-3xl ml-10 text-gray-900 font-semibold mt-6 grid lg:grid-cols-2">
+      <ol className="text-3xl mt-[150px] lg:mt-0 ml-10 text-gray-900 font-semibold mt-6 grid lg:grid-cols-2">
 
         {/* Interests */}
       <li className="mt-10">1) Travelling</li>
