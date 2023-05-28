@@ -6,7 +6,7 @@ const Data =[{
 },
 {
     thing:"Job: ",
-    value:"Web Development"
+    value:"Front End Development"
 }
 ,
 {
@@ -19,10 +19,7 @@ const Data =[{
     value:"Islamabad,Pakistan"
 }
 ,
-{
-    thing:"Phone: ",
-    value:"03217878873"
-},
+
 {
     thing:"Email: ",
     value:"syedshahmirsultan@gmail.com"
