@@ -7,7 +7,7 @@ function Education() {
       <h1 className="text-7xl align-left lg:align-center text-gray-600 font-semibold mt-[300px] mb-[120px] text-center md:mt-[400px] lg:mt-[200px]">Education</h1>
       <div className="bg-gray-200 w-auto mt-[50px] mb-[10px] lg:mb-2  md:w-2/2 lg:w-auto h-auto border-2 border-gray-200 md:mt-2 shadow-md xl:ml-[50px] xl:p-[50px]">
         {/* Education */}
-      <p className="text-3xl font-semibold text-gray-900 mt-10 mb-4 ml-2">Student of Grade 9th in Commodores Learning Foundation (CLF) Islamabad, Pakistan</p>
+      <p className="text-3xl font-semibold text-gray-900 mt-10 mb-4 ml-2">Student of Grade 10th at Commodores Learning Foundation (CLF) Islamabad, Pakistan</p>
       </div>
       </div>
       </section>
