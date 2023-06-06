@@ -20,7 +20,7 @@ const Skills = () => {
             <li className="mt-4">6) Nextjs</li>
             <li className="mt-4">7) Tailwind CSS</li>
             <li className="mt-4">8) Node js</li>
-            <li className="mt-4 mb-8">9) Figma Design</li>
+            <li className="mt-4 mb-8">9) React</li>
             </ol>
             </div>
 
