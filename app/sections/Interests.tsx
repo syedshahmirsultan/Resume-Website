@@ -16,10 +16,10 @@ const Interests = () => {
       <li className="mt-4">6) Fitness</li>
       <li className="mt-4">7) Blockchain technologies </li>
       <li className="mt-4">8) History </li>
-      <li className="mt-4">9) Coding </li>
+      <li className="mt-4">9) Metaverse technologies </li>
       <li className="mt-4">10) Entrepreneurship </li>
       <li className="mt-4">11) Horse riding </li>
-      <li className="mt-4 mb-14">12) Birdwatching </li>
+      <li className="mt-4 mb-14">12) Birds watching </li>
       </ol>
 
       </div>
