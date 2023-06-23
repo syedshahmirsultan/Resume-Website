@@ -15,7 +15,7 @@ const Footer = () => {
     <text className="text-2xl text-gray-200 mt-6">Connect on </text>
     <div className="flex gap-x-4 mt-4 cursor-pointer">
       {/* Footer Images */}
-   <Link href="https://www.linkedin.com/in/syed-shahmir-578730252/"><Image src="/images/linkedin1.jpg" alt="picture of linkedin logo" height={20} width={40} className="rounded-full"/></Link>
+   <Link href="https://www.linkedin.com/in/syed-shahmir-sultan-578730252/"><Image src="/images/linkedin1.jpg" alt="picture of linkedin logo" height={20} width={40} className="rounded-full"/></Link>
     <Link href="https://twitter.com/SyedShahmi66816"><Image src="/images/twitter1.jpg" alt="picture of twitter logo" height={2} width={40} className="h-[40px] w-[40px] rounded-full"/></Link>
     </div>
 
