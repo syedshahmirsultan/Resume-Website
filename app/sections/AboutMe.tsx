@@ -16,7 +16,7 @@ function AboutMe() {
           
             <div key={i} className="my-6">
             <span className="lg:ml-2 mt-10 text-4xl sm:text-4xl text-gray-900 font-medium">{items.thing}</span>
-            <span className="text-[25px] sm:text-3xl ml-[6px] lg:ml-[10px] text-gray-800 ">{items.value}</span>
+            <span className="text-[25px] sm:text-3xl ml-[4px] lg:ml-[10px] text-gray-800 ">{items.value}</span>
             </div>
             )
         )}
