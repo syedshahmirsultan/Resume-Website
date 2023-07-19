@@ -16,7 +16,7 @@ const Footer = () => {
     <div className="flex gap-x-4 mt-4 cursor-pointer">
       {/* Footer Images */}
    <Link href="https://www.linkedin.com/in/syed-shahmir-sultan-578730252/"><Image src="/images/linkedin1.jpg" alt="picture of linkedin logo" height={20} width={40} className="rounded-full"/></Link>
-    <Link href="https://github.com/syedshahmirsultan"><Image src="/images/github.png" alt="picture of github logo" height={30} width={40} className=" rounded-full"/></Link>
+    <Link href="https://github.com/syedshahmirsultan"><Image src="/images/github.png" alt="picture of github logo" height={30} width={50} className=" rounded-full"/></Link>
     </div>
 
 <div className="flex flex-col sm:flex-row sm:space-x-6 lg:space-x-28 mt-8">
