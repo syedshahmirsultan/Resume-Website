@@ -8,7 +8,7 @@ function Home() {
                 {/*Name and Image*/}
       <div className="space-x-12 text-left"><h2 className="text-white text-6xl md:text-7xl">Hi,I&apos;m <strong className="text-teal-600 text-6xl md:text-7xl">Syed Shahmir Sultan</strong>,a  </h2>
         <h1 className="text-[65px] md:text-7xl lg:text-8xl font-extrabold text-white mt-10 -ml-[50px]">Front End Developer</h1></div>
-        <Image src="/images/cvpic.jpg" alt="Syed Shahmir Sultan" height={200} width={350} className="lg:mt-[40px] h-auto max-w-[250px] sm:max-w-[299px] lg:max-w-[400px] lg:ml-[100px]  mt-8 rounded-full object-center"/>
+        <Image src="/images/cvpic (3).jpg" alt="Syed Shahmir Sultan" height={200} width={350} className="lg:mt-[40px] h-auto max-w-[250px] sm:max-w-[299px] lg:max-w-[400px] lg:ml-[100px]  mt-8 rounded-full object-center"/>
    </div>
     </section>
   )
